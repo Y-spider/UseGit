@@ -1,1 +1,1 @@
-test message  modified   1  你好 用户A已经修
+test message  modified   1  你好 用户A已经修改
